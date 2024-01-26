@@ -4,7 +4,7 @@ This is a web application built using React that targets fitness users. Users ca
 
 ## Getting Started
 
-To get started with the app, you can simply visit the deployed version on [netlify](mededdahby.netlify.app/).
+To get started with the app, you can simply visit the deployed version on [netlify](https://mededdahby.netlify.app/).
 
 ## Features
 
