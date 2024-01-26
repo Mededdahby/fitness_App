@@ -39,7 +39,22 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 1. Fork the repository on GitHub.
 2. Create a new branch off of the `main` branch for your feature or bug fix.
 3. Make your changes and commit them to your branch.
-4. Push your changes to your fork on GitHub and open a pull request against  
+4. Push your changes to your fork on GitHub and open a pull request against
+
+## Screenshots
+
+- About
+   ![About](https://github.com/Mededdahby/fitness_App/blob/main/screenshots/About.png)
+   
+- Home page
+     ![Home](https://github.com/Mededdahby/fitness_App/blob/main/screenshots/Home.png)
+  
+- Exercices
+   ![Exrcises](https://github.com/Mededdahby/fitness_App/blob/main/screenshots/exercise.png)
+
+- Videos  
+   ![Videos](https://github.com/Mededdahby/fitness_App/blob/main/screenshots/videos.png)
+   
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
